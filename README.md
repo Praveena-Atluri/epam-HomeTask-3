@@ -1,1 +1,2 @@
-# epam-HomeTask-3 Calulator
+# epam-HomeTask-3 
+Calculator Application
